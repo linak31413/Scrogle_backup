@@ -1,0 +1,1 @@
+if(global.on_popup) {cursor_sprite = spr_cursor}
